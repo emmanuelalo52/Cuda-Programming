@@ -1,4 +1,4 @@
 cuda-samples/
-.vscode/
+./Cuda/.vscode/
 .vector_v1
 .vector_v2
