@@ -1,2 +1,4 @@
 ./Cuda_basics/kernels/cuda-samples
 ./vscode
+./Cuda_basics/kernels/vector_v1
+./Cuda_basics/kernels/vector_v2
